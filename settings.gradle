@@ -1,0 +1,2 @@
+rootProject.name = "strongbox"
+include ':app'
